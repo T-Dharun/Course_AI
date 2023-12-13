@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/sample/static/css/main.b816a68b.css",
-    "main.js": "/sample/static/js/main.a753eda6.js",
-    "static/js/496.2dd44553.chunk.js": "/sample/static/js/496.2dd44553.chunk.js",
-    "static/media/profile.png": "/sample/static/media/profile.182e286690be57a8f881.png",
-    "static/media/logo.svg": "/sample/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/sample/index.html",
-    "main.b816a68b.css.map": "/sample/static/css/main.b816a68b.css.map",
-    "main.a753eda6.js.map": "/sample/static/js/main.a753eda6.js.map",
-    "496.2dd44553.chunk.js.map": "/sample/static/js/496.2dd44553.chunk.js.map"
+    "main.css": "/Course_AI/static/css/main.b816a68b.css",
+    "main.js": "/Course_AI/static/js/main.887b2422.js",
+    "static/js/496.2dd44553.chunk.js": "/Course_AI/static/js/496.2dd44553.chunk.js",
+    "static/media/profile.png": "/Course_AI/static/media/profile.182e286690be57a8f881.png",
+    "static/media/logo.svg": "/Course_AI/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Course_AI/index.html",
+    "main.b816a68b.css.map": "/Course_AI/static/css/main.b816a68b.css.map",
+    "main.887b2422.js.map": "/Course_AI/static/js/main.887b2422.js.map",
+    "496.2dd44553.chunk.js.map": "/Course_AI/static/js/496.2dd44553.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b816a68b.css",
-    "static/js/main.a753eda6.js"
+    "static/js/main.887b2422.js"
   ]
 }
